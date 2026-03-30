@@ -1,0 +1,59 @@
+.topics-container{
+padding:40px;
+}
+
+.form{
+display:flex;
+gap:10px;
+margin-bottom:20px;
+}
+
+.form input{
+padding:10px;
+border:1px solid #ccc;
+border-radius:6px;
+}
+
+.form button{
+background:#2c3e90;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:6px;
+cursor:pointer;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+background:white;
+box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+th,td{
+padding:12px;
+border-bottom:1px solid #eee;
+text-align:center;
+}
+
+.edit{
+background:#ffc107;
+border:none;
+padding:6px 10px;
+margin-right:5px;
+}
+
+.delete{
+background:#dc3545;
+color:white;
+border:none;
+padding:6px 10px;
+margin-right:5px;
+}
+
+.quiz{
+background:#28a745;
+color:white;
+border:none;
+padding:6px 10px;
+}
